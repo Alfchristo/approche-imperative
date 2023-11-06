@@ -10,8 +10,5 @@ public class InversionContenu {
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + " ");
         }
-        for (int i = 0; i < arrayCopy.length; i++) {
-            System.out.print(arrayCopy[i] + " ");
-        }
     }
 }

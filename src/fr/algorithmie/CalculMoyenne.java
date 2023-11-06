@@ -7,7 +7,7 @@ public class CalculMoyenne {
         for (int denum: array){
             sum += denum;
         }
-        int average = sum /array.length;
-        System.out.println(average);
+        int moyenne = sum /array.length;
+        System.out.println(moyenne);
     }
 }
